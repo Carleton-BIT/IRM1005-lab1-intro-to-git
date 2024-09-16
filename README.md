@@ -24,9 +24,9 @@ Important note for step 8: If you are using Nano [(nano looks like this)](https:
 
 ## If time permits - Creating your second commit
 
-11) Change the body of the webpage to contain at least 4 different elements discussed in class (e.g. links, strong emphasis, stress emphasis, lists), and verify it works using the Live Preview. Then, save your changes.
-12) Make a change to README.md
-13) Stage your changes to both files for commit
-14) Commit the changes with a descriptive commit message
-15) 11) Push your changes to your repository
-16) Verify your changes are pushed to your repository by viewing it on the GitHub website
+13) Change the body of the webpage to contain at least 4 different elements discussed in class (e.g. links, strong emphasis, stress emphasis, lists), and verify it works using the Live Preview. Then, save your changes.
+14) Make a change to README.md
+15) Stage your changes to both files for commit
+16) Commit the changes with a descriptive commit message
+17) 11) Push your changes to your repository
+18) Verify your changes are pushed to your repository by viewing it on the GitHub website

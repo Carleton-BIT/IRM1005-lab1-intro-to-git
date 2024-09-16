@@ -7,7 +7,7 @@ In this lab, you will do some simple HTML edits and commit your changes using th
 ## Setup
 
 1) Create a folder on your computer for this repository
-2) **Clone this repository into that folder using** `git clone`
+2) Clone this repository into that folder using `git clone`
 3) Open VSCode and install the Live Preview extension
 4) Open the repository in VSCode
 

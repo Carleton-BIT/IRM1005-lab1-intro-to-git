@@ -28,5 +28,5 @@ Important note for step 8: If you are using Nano [(nano looks like this)](https:
 14) Make a change to README.md
 15) Stage your changes to both files for commit
 16) Commit the changes with a descriptive commit message
-17) 11) Push your changes to your repository
+17) Push your changes to your repository
 18) Verify your changes are pushed to your repository by viewing it on the GitHub website

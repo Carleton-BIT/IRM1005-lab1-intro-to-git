@@ -14,12 +14,12 @@ In this lab, you will do some simple HTML edits and commit your changes using th
 ## Creating your first commit
 
 6) Change the title of the webpage to "Lab 1",  verify it works using the Live Preview, and save your change
-7) Stage your change for commit
-8) Commit the changes with a descriptive commit message.
+7) Stage your change for commit using `git add`
+8) Commit the changes with a descriptive commit message using `git commit`
 
 Important note for step 8: If you are using Nano [(nano looks like this)](https://www.linuxtrainingacademy.com/wp-content/uploads/2017/03/nano.png), after typing your message you can use ctl-X to quit, type y to save, and enter to confirm. If you're having problems, you may be using vim [(vim looks like this)](https://www.tecmint.com/wp-content/uploads/2019/04/Delete-Complete-Text-in-Vi-Editor.png) as your editor. If so, follow [these instructions](https://stackoverflow.com/questions/11828270/how-do-i-exit-vim) to exit vim. Once you've done so, you can change your editor to Nano with this command: `git config --global core. editor "nano"` and then you can try committing again.
 
-11) Push your changes to your repository
+11) Push your changes to your repository using `git push origin main`
 12) Verify your changes are pushed to your repository by viewing it on the GitHub website
 
 ## If time permits - Creating your second commit
